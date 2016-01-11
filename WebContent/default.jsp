@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Demo</title>
-<%= "CD Azure Demo - JAVA Application, Welcome - Carbonite Live Demo." %>
+<%= "CD Azure Demo - JAVA Application, Welcome - UTC Live Demo." %>
 </head>
 <body>
 
