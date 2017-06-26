@@ -8,6 +8,6 @@
 <%= "CD Azure Demo - JAVA Application, Welcome -  test demo 2" %>
 </head>
 <body>
-
+http://marketplace.eclipse.org/content/azure-toolkit-eclipse
 </body>
 </html>
