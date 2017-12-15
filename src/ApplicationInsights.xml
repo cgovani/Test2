@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <ApplicationInsights xmlns="http://schemas.microsoft.com/ApplicationInsights/2013/Settings" schemaVersion="2014-05-30">
-  <InstrumentationKey>6497312a-460a-4472-aa7b-b8e44ce82d71</InstrumentationKey>
+  <InstrumentationKey>a9bee739-6763-4956-932d-b4c8a1fcdc36</InstrumentationKey>
   <ContextInitializers>
   </ContextInitializers>
   <TelemetryInitializers>
