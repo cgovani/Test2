@@ -1,13 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"
-    %>
-    <%@ page import="com.microsoft.applicationinsights.TelemetryClient" %>
-    <%@ page import="java.util.ArrayList" %>
-     <%@ page import="java.util.Collections" %>
-          <%@ page import="java.util.HashMap" %>
+	pageEncoding="ISO-8859-1"%>
+<%@ page import="com.microsoft.applicationinsights.TelemetryClient"%>
+<%@ page import="java.util.ArrayList"%>
+<%@ page import="java.util.Collections"%>
+<%@ page import="java.util.HashMap"%>
 
-    
-    
+
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -35,7 +34,7 @@ automatically in just a few seconds.
 </script>
 </head>
 <body>
-<%
+	<%
 
   TelemetryClient teleClient = new TelemetryClient();
 
@@ -56,6 +55,6 @@ automatically in just a few seconds.
 		
 
 %>
-<%= "Custom Event" %>
+	<%= "Custom Event" %>
 </body>
 </html>
